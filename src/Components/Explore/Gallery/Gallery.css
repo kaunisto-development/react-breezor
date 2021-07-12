@@ -1,0 +1,26 @@
+.galleryInner {
+    display: flex;
+    width: 100%;
+    padding: 30px 0;
+}
+.galleryContainer {
+    margin-right: 10px;
+}
+
+.galleryContainer img{
+    width: 740px;
+    height: 546px;
+    border-radius: 10px;
+}
+.myGalleryContainer {
+    display: flex;
+    flex-wrap: wrap;
+    cursor: pointer;
+    min-height: 546px;
+}
+.myGalleryContainer img{
+    width: 179px;
+    height: 179px;
+    margin-right: 5px;
+    border-radius: 10px;
+}

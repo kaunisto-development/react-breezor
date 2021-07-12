@@ -1,0 +1,117 @@
+export const allOffers = [
+    {
+        id:1,
+        title:'Все',
+        img:'https://cdn.pixabay.com/photo/2021/05/08/11/24/city-6238228_960_720.jpg' 
+    },
+    {
+        id:2,
+        title:'Все',
+        img:'https://cdn.pixabay.com/photo/2021/07/04/17/29/caterpillar-6387049_960_720.jpg' 
+    },
+    {
+        id:3,
+        title:'Все',
+        img:'https://cdn.pixabay.com/photo/2017/02/26/04/50/children-moc-chau-2099536_960_720.jpg' 
+    },
+    {
+        id:4,
+        title:'Все',
+        img:'https://cdn.pixabay.com/photo/2015/12/28/19/09/family-1111818_960_720.jpg' 
+    },
+    {
+        id:5,
+        title:'Все',
+        img:'https://cdn.pixabay.com/photo/2015/12/28/19/09/family-1111818_960_720.jpg' 
+    },
+];
+export const restOffers = [
+    {
+        id:1,
+        title:'Отдых',
+        img:'https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_960_720.jpg' 
+    },
+    {
+        id:2,
+        title:'Отдых',
+        img:'https://cdn.pixabay.com/photo/2016/01/09/18/27/camera-1130731_960_720.jpg' 
+    },
+    {
+        id:3,
+        title:'Отдых',
+        img:'https://cdn.pixabay.com/photo/2016/11/29/04/16/beach-1867271_960_720.jpg' 
+    },
+    {
+        id:4,
+        title:'Отдых',
+        img:'https://cdn.pixabay.com/photo/2015/12/28/19/09/family-1111818_960_720.jpg' 
+    },
+];
+export const funOffers = [
+    {
+        id:1,
+        title:'Развлечения',
+        img:'https://cdn.pixabay.com/photo/2015/12/28/19/09/family-1111818_960_720.jpg' 
+    },
+    {
+        id:2,
+        title:'Развлечения',
+        img:'https://cdn.pixabay.com/photo/2015/12/28/19/09/family-1111818_960_720.jpg' 
+    },
+    {
+        id:3,
+        title:'Развлечения',
+        img:'https://cdn.pixabay.com/photo/2015/12/28/19/09/family-1111818_960_720.jpg' 
+    },
+];
+export const cookOffers = [
+    {
+        id:1,
+        title:'Кулинарные',
+        img:'https://cdn.pixabay.com/photo/2015/12/28/19/09/family-1111818_960_720.jpg' 
+    },
+    {
+        id:2,
+        title:'Кулинарные',
+        img:'https://cdn.pixabay.com/photo/2015/12/28/19/09/family-1111818_960_720.jpg' 
+    },
+    {
+        id:3,
+        title:'Кулинарные',
+        img:'https://cdn.pixabay.com/photo/2015/12/28/19/09/family-1111818_960_720.jpg' 
+    },
+];
+export const cultureOffers = [
+    {
+        id:1,
+        title:'Культурные',
+        img:'https://cdn.pixabay.com/photo/2015/12/28/19/09/family-1111818_960_720.jpg' 
+    },
+    {
+        id:2,
+        title:'Культурные',
+        img:'https://cdn.pixabay.com/photo/2015/12/28/19/09/family-1111818_960_720.jpg' 
+    },
+    {
+        id:3,
+        title:'Культурные',
+        img:'https://cdn.pixabay.com/photo/2015/12/28/19/09/family-1111818_960_720.jpg' 
+    },
+];
+export const activeOffers = [
+    {
+        id:1,
+        title:'Активные',
+        img:'https://cdn.pixabay.com/photo/2015/12/28/19/09/family-1111818_960_720.jpg' 
+    },
+    {
+        id:2,
+        title:'Активные',
+        img:'https://cdn.pixabay.com/photo/2015/12/28/19/09/family-1111818_960_720.jpg' 
+    },
+    {
+        id:3,
+        title:'Активные',
+        img:'https://cdn.pixabay.com/photo/2015/12/28/19/09/family-1111818_960_720.jpg' 
+    },
+];

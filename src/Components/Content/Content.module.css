@@ -1,0 +1,70 @@
+.innerWrapper {
+    border-bottom: 1px solid #8C8C8C;
+    padding-bottom: 20px;
+}
+.Arrange img {
+    margin-right: 5px;
+}
+.Ava {
+    display: flex;
+    color: #d9d9d9;
+}
+.Ava span {
+    color:#000;
+    font-weight: 500;
+}
+.Ava img {
+    margin-right: 8px;
+}
+.Description {
+    display: flex;
+    justify-content: space-between;
+}
+.Description p {
+    font-size: 14px;
+    max-width: 800px;
+}
+.servicesBlock {
+    padding-top: 40px;
+}
+.servicesBlock h4 {
+    font-size: 24px;
+    font-weight: 400;
+}
+.services {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.services div {
+    width: 33.33333%;
+    max-width: 320px;
+}
+.withyou p {
+    width: 280px;
+}
+.services h4 {
+    font-size: 20px;
+}
+.services p {
+    font-weight: 500;
+}
+.requirements img {
+    margin-right: 10px;
+}
+.smallTitle {
+    display: flex;
+    margin-top: 20px;
+}
+.smallTitle h2 {
+    margin-right: 50px;
+}
+.smallTitle div {
+    width: 350px;
+}
+.smallTitle p {
+    font-weight: 500;
+}
+.mapPic img{
+    width: 100%;
+}

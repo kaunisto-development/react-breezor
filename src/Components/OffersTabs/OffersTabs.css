@@ -1,0 +1,11 @@
+.offerTabs {
+    margin-right: 50px;
+    padding: 5px 15px;
+    font-size: 12px;
+    border-radius: 40px;
+    cursor: pointer;
+}
+li.active {
+    background-color: #2E89FF;
+    color:#fff;
+}

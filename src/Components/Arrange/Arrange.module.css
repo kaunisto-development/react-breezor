@@ -1,0 +1,77 @@
+.arrangeInner {
+    display: flex;
+    border-bottom: 1px solid #8c8c8c;
+    padding-bottom: 15px;
+    padding-top: 60px;
+}
+.datepickerBox {
+    display: flex;
+}
+.datepicker p {
+    font-size: 24px;
+    line-height: 40px;
+}
+.conditions {
+    margin-left: 30px;
+    font-size: 14px;
+}
+.conditions img {
+    margin-right: 5px;
+}
+.conditions span {
+    font-weight: 500;
+}
+.conditions div {
+    margin-bottom: 15px;
+    max-width: 200px;
+}
+.maintitle {
+    font-size: 32px;
+    line-height: 48px;
+}
+.maintext {
+    max-width: 500px;
+    margin-bottom: 45px;
+    font-size: 14px;
+}
+.picture {
+    position: relative;
+    margin-right: 40px;
+}
+.overlay {
+    background-color: #FB9155;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    padding: 5px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color:#fff;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 700;
+}
+.overlay img {
+    margin-bottom: 5px;
+    width: 32px;
+    height: 32px;
+}
+.buttons {
+    display: flex;
+    flex-direction: column;
+}
+.buttons button {
+    border: 1px solid #000;
+    background-color: transparent;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-top: 70px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.buttons li a {
+    background-color: #FDD21C;
+    padding: 5px 20px;
+    font-size: 12px;
+}

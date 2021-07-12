@@ -1,0 +1,27 @@
+.crumbs {
+    display: flex;
+    height: 60px;
+    justify-content: space-between;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 120px 70px 30px 70px;
+    width: 1280px;
+    margin: 0 auto;
+  }
+  .crumbsArrows {
+    display: flex;
+    align-items: center;
+  }
+  .countries {
+      align-items: center;
+  }
+  .crumbsBtn {
+    display: flex;
+    align-items: center;
+  }
+  .crumbsBtn img {
+    margin-right: 10px;
+  }
+  .crumbsBtn div {
+    margin-left: 10px;
+  }
