@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/react-breezor/static/css/main.abcb46a1.chunk.css",
+    "main.js": "/react-breezor/static/js/main.e160e33a.chunk.js",
+    "main.js.map": "/react-breezor/static/js/main.e160e33a.chunk.js.map",
+    "runtime-main.js": "/react-breezor/static/js/runtime-main.d6a16939.js",
+    "runtime-main.js.map": "/react-breezor/static/js/runtime-main.d6a16939.js.map",
+    "static/js/2.1ac780ac.chunk.js": "/react-breezor/static/js/2.1ac780ac.chunk.js",
+    "static/js/2.1ac780ac.chunk.js.map": "/react-breezor/static/js/2.1ac780ac.chunk.js.map",
+    "index.html": "/react-breezor/index.html",
+    "static/css/main.abcb46a1.chunk.css.map": "/react-breezor/static/css/main.abcb46a1.chunk.css.map",
+    "static/js/2.1ac780ac.chunk.js.LICENSE.txt": "/react-breezor/static/js/2.1ac780ac.chunk.js.LICENSE.txt",
+    "static/media/arrowRight.6167ab17.svg": "/react-breezor/static/media/arrowRight.6167ab17.svg",
+    "static/media/basket.619f3365.svg": "/react-breezor/static/media/basket.619f3365.svg",
+    "static/media/cheese.105ddeaf.png": "/react-breezor/static/media/cheese.105ddeaf.png",
+    "static/media/clock.65515e52.svg": "/react-breezor/static/media/clock.65515e52.svg",
+    "static/media/comment.8ac80fcc.svg": "/react-breezor/static/media/comment.8ac80fcc.svg",
+    "static/media/distance.70f7ae9e.svg": "/react-breezor/static/media/distance.70f7ae9e.svg",
+    "static/media/facebook.6a86aa00.svg": "/react-breezor/static/media/facebook.6a86aa00.svg",
+    "static/media/fav.9770b631.svg": "/react-breezor/static/media/fav.9770b631.svg",
+    "static/media/favB.de666ff4.svg": "/react-breezor/static/media/favB.de666ff4.svg",
+    "static/media/flower.582ad79f.svg": "/react-breezor/static/media/flower.582ad79f.svg",
+    "static/media/instagram.b05fcbd9.svg": "/react-breezor/static/media/instagram.b05fcbd9.svg",
+    "static/media/location.83b6c94f.svg": "/react-breezor/static/media/location.83b6c94f.svg",
+    "static/media/map.84026e28.png": "/react-breezor/static/media/map.84026e28.png",
+    "static/media/mask.9e4ac45c.svg": "/react-breezor/static/media/mask.9e4ac45c.svg",
+    "static/media/offers.46925e18.png": "/react-breezor/static/media/offers.46925e18.png",
+    "static/media/people.73442f02.svg": "/react-breezor/static/media/people.73442f02.svg",
+    "static/media/share.03b5481b.svg": "/react-breezor/static/media/share.03b5481b.svg",
+    "static/media/spray.0199760c.svg": "/react-breezor/static/media/spray.0199760c.svg",
+    "static/media/taxi.48ffa12b.svg": "/react-breezor/static/media/taxi.48ffa12b.svg",
+    "static/media/twitter.03e48b1f.svg": "/react-breezor/static/media/twitter.03e48b1f.svg",
+    "static/media/union.957ca1a6.svg": "/react-breezor/static/media/union.957ca1a6.svg",
+    "static/media/vector.5368f635.svg": "/react-breezor/static/media/vector.5368f635.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6a16939.js",
+    "static/js/2.1ac780ac.chunk.js",
+    "static/css/main.abcb46a1.chunk.css",
+    "static/js/main.e160e33a.chunk.js"
+  ]
+}
